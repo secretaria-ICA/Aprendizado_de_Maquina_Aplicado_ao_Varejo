@@ -7,9 +7,9 @@
 
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina [Projetos de Sistemas Inteligentes de Apoio à Decisão](https://ica.puc-rio.ai/es/bi-master-es/).
 
----
-
 [Repositório de Dados](https://drive.google.com/drive/folders/1--CfCpk_5w3TOAtwUBuC4jKQyFHSgAEM?usp=sharing) 
+
+---
 
 ### Resumo
 
